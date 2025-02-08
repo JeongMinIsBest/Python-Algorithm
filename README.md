@@ -1,6 +1,5 @@
+# Practicing Python Algorithm 💻
 
-👩‍💻 Language & Level : Python / Beginner
+👩‍💻 Language : Python
 
-🗓 Studying Period : 2025.01.13. - 2025.02.24.
-
-✍🏻 TIL : Velog - running_machine_
+✍🏻 TIL : [Velog - running_machine_](https://velog.io/@ever_since/series/%EB%B0%B1%EC%A4%80-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4)
